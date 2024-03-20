@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 107
+  controlID: 52
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 394
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -676,9 +676,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -380.88977, y: -191.69403, z: -1402.0614}
+    m_Target: {x: -1690.5472, y: -996.60486, z: 13.613676}
     speed: 2
-    m_Value: {x: -380.88977, y: -191.69403, z: -1402.0614}
+    m_Value: {x: -1690.5472, y: -996.60486, z: 13.613676}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -724,11 +724,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.01081694, y: -0.9885093, z: 0.08046686, w: 0.12474321}
+    m_Target: {x: 0.18718942, y: -0.68174744, z: 0.18622091, w: 0.68176323}
     speed: 2
-    m_Value: {x: 0.010699955, y: -0.98903984, z: 0.08051104, w: 0.12330326}
+    m_Value: {x: 0.1882786, y: -0.68170655, z: 0.1873083, w: 0.68172055}
   m_Size:
-    m_Target: 968.05164
+    m_Target: 999.38495
     speed: 2
     m_Value: 968.05164
   m_Ortho:
@@ -778,7 +778,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 672
-    width: 1514
+    width: 1525
     height: 319
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -925,7 +925,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\damcc29\Castle Attack
+  m_LastProjectPath: C:\Users\damcc29\Documents\GitHub\Castle-Attack
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -1057,7 +1057,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c4faffffd0faffffdcfaffffdefaffff1cfbffff085c0000485c0000
+      m_ExpandedIDs: 1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1104,7 +1104,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 672
-    width: 1514
+    width: 1525
     height: 319
   m_SerializedDataModeController:
     m_DataMode: 0
